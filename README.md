@@ -10,7 +10,7 @@ Açılan not defterinin en altına gidin `Lang1=English,en` `Lang2=简体中文,
    ```
 Dosyayı kaydedip kapatın.
 
-Yazılımın ana klasöründe `text` klasörünün içine indirdiğiniz `tr` klasörünün atın
+Sonra tekrardan: Yazılımın ana klasörüne gidin ve  `text` klasörünün içine girin indirdiğiniz `tr` klasörünün atın
 
 > ⚠️ **Önemli Not:**  
 > Bu yama topluluk katkısıyla geliştirilmektedir. Cihazınızda test ederken herhangi bir **yazı taşması, sığmama veya hatalı terim** fark ederseniz lütfen:
