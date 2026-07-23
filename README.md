@@ -1,42 +1,33 @@
-# 🇹🇷 Türkçe Dil Yaması
+# 🇹🇷 Türkçe Dil Yaması (Otomatik Kurulum)
 
-Uyumlu klavye ve mouse yazılımları için hazırlanmış Türkçe dil yaması.
+Uyumlu klavye ve mouse yazılımları için hazırlanmış **otomatik Türkçe dil yaması**.
 
 ---
 
 ## 🎮 Desteklenen Cihazlar
 
-- Aula F75
+- Aula F75  
 
 ---
 
-## ⚙️ Kurulum
+## ⚙️ Kurulum (Otomatik)
 
-Driver’ın kurulu olduğu klasöre gidin  
-(Örn: `C:\Program Files (x86)\AULA\F75`)
-
-`Cfg` dosyasını Not Defteri ile açın ve aşağıdaki satırı bulun ve satırın en sonunua bu kodu ekleyin: `Lang4=Turkce,tr`
-
-```ini
-Lang1=English,en
-Lang2=简体中文,sc
-Lang3=언어,Korean
-Lang4=Turkce,tr
-```
-
-Dosyayı kaydedip kapatın.
+1. `oto_kur.bat` dosyasını **yönetici olarak çalıştırın**
+2. Program sizden kurulu olduğu klasörü isteyecek  
+   (Örn: `C:\Program Files (x86)\AULA\F75`)
+3. Gerekli işlemler otomatik olarak yapılacaktır
 
 ---
 
-### 2) Dil Dosyasını Yükleme
 
-Tekrardan Driver’ın kurulu olduğu konuma gidin: (Örn: `C:\Program Files (x86)\AULA\F75`)
-Bu sefer `Text` dosyasını açın. İndirdiğiniz `tr` klasörünü kopyalayın
-
----
-
-### ⚠️ Notlar
+## ⚠️ Notlar
 
 - Resmi bir yama değildir  
 - Bazı metinlerde taşma olabilir  
-- [Hata bulduğunuz takdirde bize bildirin] 
+- Program yönetici izni gerektirir  
+
+---
+
+## 🛠️ Geri Bildirim
+
+Hata bulursanız veya öneriniz varsa bildirebilirsiniz.
