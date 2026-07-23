@@ -1,19 +1,43 @@
-# Türkçe Dil Yaması Kurulum Rehberi
+# 🇹🇷 Türkçe Dil Yaması
 
-## Kurulum Adımları
+Uyumlu klavye ve mouse yazılımları için hazırlanmış Türkçe dil yaması.
 
-Yazılımın ana klasörüne gidin: (örn:C:\Program Files (x86)\AULA\F75)
-Burda bulunan `.cfg` uzantılı ayar dosyasını Not Defteri ile açın.
-Açılan not defterinin en altına gidin `Lang1=English,en` `Lang2=简体中文,sc` yazılarınını en altına şu satırı ekleyin:
-   ```ini
-   Lang4=turkce,tr
-   ```
+---
+
+## 🎮 Desteklenen Cihazlar
+
+- Redragon K616 Fizz Pro
+- Redragon K617 RGB
+
+---
+
+## ⚙️ Kurulum
+
+Driver’ın kurulu olduğu klasöre gidin  
+(Örn: `C:\Program Files (x86)\AULA\F75`)
+
+`Cfg` dosyasını Not Defteri ile açın ve aşağıdaki satırı bulun ve satırın en sonunua bu kodu ekleyin: `Lang4=Turkce,tr`
+
+```ini
+Lang1=English,en
+Lang2=简体中文,sc
+Lang3=언어,Korean
+Lang4=Turkce,tr
+```
+
 Dosyayı kaydedip kapatın.
 
-Sonra tekrardan: Yazılımın ana klasörüne gidin ve  `text` klasörünün içine girin indirdiğiniz `tr` klasörünün atın
+---
 
-> ⚠️ **Önemli Not:**  
-> Bu yama topluluk katkısıyla geliştirilmektedir. Cihazınızda test ederken herhangi bir **yazı taşması, sığmama veya hatalı terim** fark ederseniz lütfen:
-> - GitHub üzerinden bir **Issue** açın, veya
-> - Ekran görüntüsü ile birlikte geri bildirimde bulunun.
-> Geri bildirimleriniz doğrultusunda yama en kısa sürede güncellenecektir! 🛠️
+### 2) Dil Dosyasını Yükleme
+
+Tekrardan Driver’ın kurulu olduğu konuma gidin: (Örn: `C:\Program Files (x86)\AULA\F75`)
+Bu sefer `Text` dosyasını açın. İndirdiğiniz `tr` klasörünü kopyalayın
+
+---
+
+### ⚠️ Notlar
+
+- Resmi bir yama değildir  
+- Bazı metinlerde taşma olabilir  
+- [Hata bulduğunuz takdirde bize bildirin] 
