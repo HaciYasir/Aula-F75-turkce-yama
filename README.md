@@ -6,8 +6,7 @@ Uyumlu klavye ve mouse yazılımları için hazırlanmış Türkçe dil yaması.
 
 ## 🎮 Desteklenen Cihazlar
 
-- Redragon K616 Fizz Pro
-- Redragon K617 RGB
+- Aula F75
 
 ---
 
