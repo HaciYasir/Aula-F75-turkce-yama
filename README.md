@@ -19,6 +19,13 @@ Uyumlu klavye ve mouse yazılımları için hazırlanmış **otomatik Türkçe d
 
 ---
 
+## 🔒 Güvenlik
+
+- Proje açık kaynaklıdır
+- Tüm kodlar incelenebilir
+- Herhangi bir zararlı işlem içermez
+
+---
 
 ## ⚠️ Notlar
 
